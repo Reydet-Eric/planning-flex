@@ -1,0 +1,26 @@
+header,
+footer{
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: chocolate;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: solid 1px;
+}
+    li{
+      
+        border: solid 1px;
+        list-style-type: none;
+        min-height: 20px;
+    }
+
+.jour{
+    border: solid 1px;
+}
